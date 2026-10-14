@@ -1,0 +1,19 @@
+{
+  "baseline": {
+    "Accuracy": 0.975,
+    "Precision (macro)": 0.976,
+    "Recall (macro)": 0.9748,
+    "F1 (macro)": 0.9748
+  },
+  "tuned": {
+    "Accuracy": 0.9944,
+    "Precision (macro)": 0.9945,
+    "Recall (macro)": 0.9944,
+    "F1 (macro)": 0.9944
+  },
+  "best_params": {
+    "svc__C": 0.1,
+    "svc__gamma": 0.1,
+    "svc__kernel": "poly"
+  }
+}
